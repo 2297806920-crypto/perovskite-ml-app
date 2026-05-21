@@ -1,2 +1,5 @@
 [server]
 pythonVersion = "3.10"
+
+[browser]
+gatherUsageStats = false
