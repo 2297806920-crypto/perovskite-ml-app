@@ -8,6 +8,7 @@ from sklearn.model_selection import cross_val_score, LeaveOneOut
 import matplotlib.pyplot as plt
 
 # ==================== 页面设置 ====================
+st.cache_data.clear()
 st.set_page_config(page_title="钙钛矿光热催化智能设计平台", page_icon="🔬", layout="wide")
 
 # ==================== 标题 ====================
